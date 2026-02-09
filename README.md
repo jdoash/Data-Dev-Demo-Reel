@@ -2,6 +2,8 @@
 
 > A portfolio showcase of data development and software engineering projects
 
+<!-- Note: Replace placeholder text in [brackets] with your actual project details, skills, and contact information -->
+
 ## 📋 Table of Contents
 
 - [About](#about)
