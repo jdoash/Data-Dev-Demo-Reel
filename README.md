@@ -49,12 +49,12 @@ Below are the 8 core systems featured in this portfolio.
 
 ### 3. Bibliometric Analytics System
 *(Demo Reel: "Publication Analytics Dashboard")*
-- **Description**: Automated reconciliation engine processing 264,196 publication records with three-tier deduplication logic and data quality validation. Reduced UTQAP processing from ~320 to ~16 person-hours.
+- **Description**: Automated reconciliation engine processing 264,196 publication records with three-tier deduplication logic and data quality validation. Reduced Program Review processing from ~320 to ~16 person-hours.
 - **Technologies**: Python (pandas, numpy), Tableau, Excel automation, fuzzy matching, DOI resolution
 - **Key Features**:
   - Three-tier deduplication: UTORID matching → Title/Author fuzzy matching → DOI reconciliation
   - O(n²) → O(n log n) optimization through architecture redesign
-  - 14-sheet output structure for institutional reporting and UTQAP submissions
+  - 14-sheet output structure for institutional reporting and Program Review submissions
   - Automated department-level deliverables across all university faculties
 
 ### 4. Faculty Profile RAG System
