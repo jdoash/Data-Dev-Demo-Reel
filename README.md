@@ -80,13 +80,13 @@ Below are the 8 core systems featured in this portfolio.
 
 ### 6. CCR ETL Pipeline & Analytics Platform
 *(Demo Reel: "Student Data Integration Pipeline")*
-- **Description**: Production ETL pipeline joining multi-source institutional data (ROSI student information system, Co-Curricular Record, HRIS) processing 400,000+ student records across three campuses with automated validation and compliance reporting.
-- **Technologies**: Python, SQL, Tableau Server, ROSI API, HRIS integration, SharePoint
+- **Description**: High-volume ETL pipeline processing 400,000+ student records exported from the Orbis platform. Employs Neural Networks for advanced entity resolution and data cleaning, joining multi-source data (ROSI, CCR, HRIS) for institutional compliance and reporting.
+- **Technologies**: Python, TensorFlow/Keras (Neural Networks), SQL, Tableau Server, Orbis API, ROSI integration
 - **Key Features**:
-  - Multi-source institutional data joining with automated validation checkpoints
+  - Neural Network-driven entity resolution for complex student record matching
+  - Processing of 400,000+ records via Orbis CSV institutional exports
   - Dual output architecture: CSV imports for mass record population + automated mailing lists
-  - Tableau Server administration (projects, permissions, scheduled refreshes) for tri-campus stakeholders
-  - QA dashboards tracking adoption, accuracy, and support-volume trends
+  - Tableau Server administration for tri-campus stakeholder dashboards
 
 ### 7. MCURES Entities of Concern Disclosure
 *(Demo Reel: "Regulatory Reporting Pipeline")*
