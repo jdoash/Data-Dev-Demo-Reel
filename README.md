@@ -1,6 +1,6 @@
 # Data-Dev-Demo-Reel
 
-https://github.com/jdoash/Data-Dev-Demo-Reel/assets/demo_reel.mp4
+https://github.com/jdoash/Data-Dev-Demo-Reel/raw/main/assets/demo_reel.mp4
 
 > A portfolio showcase of data development, software engineering, and compliance intelligence projects
 
