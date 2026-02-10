@@ -1,5 +1,10 @@
 # Data-Dev-Demo-Reel
 
+<video width="100%" controls autoplay muted playsinline poster="assets/poster.png">
+  <source src="assets/demo_reel.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 > A portfolio showcase of data development, software engineering, and compliance intelligence projects
 
 ## Table of Contents
