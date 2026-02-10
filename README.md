@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/ca73c6ed-3d83-4b1d-bba6-faccf3790307
 
 ## About
 
-Enterprise data engineer and full-stack developer with 8+ years building production systems at the University of Toronto. I architect end-to-end solutions — from multi-source ETL pipelines processing 400K+ records to full-stack Flask/PostgreSQL applications with audit logging and compliance controls. I specialize in sanctions screening, entity resolution, and research security platforms.
+Enterprise data engineer and full-stack developer with 8+ years building production systems at the University of Toronto. I architect end-to-end solutions, from multi-source ETL pipelines processing 400K+ records to full-stack Flask/PostgreSQL applications with audit logging and compliance controls. I specialize in sanctions screening, entity resolution, and research security platforms.
 
 ## Portfolio Projects
 
